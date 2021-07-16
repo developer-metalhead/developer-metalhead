@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/developer_metal?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
-    <img src="https://img.shields.io/youtube/views/E2VP_9UkdGE?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>" />
   </a>
 </p>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
