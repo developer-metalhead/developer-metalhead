@@ -1,4 +1,4 @@
-##                           Hi there I am Kumar Satwik
+##  <p align="centre" Hi there I am Kumar Satwik </p>
 
 <p align="center">
   <a href="https://github.com/developer-metalhead?tab=followers">
