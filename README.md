@@ -7,7 +7,7 @@
   <a href="http://twitter.com/developer_metal">
     <img src="https://img.shields.io/twitter/follow/developer_metal?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/arpancodes?sub_confirmation=1">
+  <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
     <img src="https://img.shields.io/youtube/views/E2VP_9UkdGE?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
