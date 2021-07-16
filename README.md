@@ -1,4 +1,4 @@
-## I Create &lt;Expeciences /&gt; on the Web
+## I Create &lt;Experiences /&gt; on the Web
 
 <p align="center">
   <a href="https://github.com/developer-metalhead?tab=followers">
