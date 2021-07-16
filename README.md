@@ -1,16 +1,14 @@
-### Here is what I'm Working On! 👋
+## I Create &lt;Expeciences /&gt; on the Web
 
-<!--
-**developer-metalhead/developer-metalhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/developer-metalhead?tab=followers">
+    <img src="https://img.shields.io/github/followers/developer-metalhead?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/developer_metal">
+    <img src="https://img.shields.io/twitter/follow/developer-metal?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/arpancodes?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/E2VP_9UkdGE?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
