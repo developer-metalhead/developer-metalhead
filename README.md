@@ -1,4 +1,6 @@
-## Hi there, I am Kumar Satwik👨‍💻💻
+<h1 align="center">Hi there, I am Kumar Satwik👨‍💻💻</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=129e00&style=plastic" alt="developer-metalhead" /> </p>
 
 <p align="center">
   <a href="https://github.com/developer-metalhead?tab=followers">
@@ -27,3 +29,5 @@
               
 </p>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
+
+<p><img align="center"><img width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /></p>
