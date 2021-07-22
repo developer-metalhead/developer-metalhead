@@ -12,7 +12,8 @@
 <img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
 <img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
 
----
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <b> <p align="center"> Check out my socials:</b><br>
   <p align="center">
