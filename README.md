@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Kumar Satwik👨‍💻💻</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=129e00&style=plastic" alt="developer-metalhead" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=3b8bc4&style=plastic" alt="developer-metalhead" /> </p>
 
 <p align="center">
   <a href="https://github.com/developer-metalhead?tab=followers">
