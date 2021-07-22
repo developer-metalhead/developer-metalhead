@@ -35,4 +35,5 @@
 </p>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
 
-<p><img align="center"><img width ="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /></p>
+<p><img align="left"><img width ="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead">
+  <img align="right" alt="developer-metalhead" width="51%" height="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight">
