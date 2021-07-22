@@ -3,18 +3,7 @@
 <div align="center" width="50">
 
 <img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="400"/>
-
-</div>
-
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" /></p>
-
-<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
-<img align="right" alt="Coding" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" /> </p?
-
-
----
-
-<b> <p align="center"> Check out my socials:</b><br>
+  <b> <p align="center"> Check out my socials:</b><br>
   <p align="center">
  <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -42,5 +31,46 @@
   </a>
 
 </div>
+
+
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/SurPathHub">
+              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&count_private=true&theme=tokyonight&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-metalhead&layout=compact&theme=tokyonight">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 
