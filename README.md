@@ -6,7 +6,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=0e75b6&style=plastic" alt="developer-metalhead" /> </p             
 </p>
-<p align="center"><img width="75%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
 
 <p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
 <img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
