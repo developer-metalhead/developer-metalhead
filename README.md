@@ -1,7 +1,7 @@
 
 <div align="center" width="50">
 
-<img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
+<img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="400"/>
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=0e75b6&style=plastic" alt="developer-metalhead" /> </p             
