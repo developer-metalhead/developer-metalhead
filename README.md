@@ -1,19 +1,21 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
 
 <div align="center" width="50">
 
-<img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="400"/>
+<img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 </div>
-</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=0e75b6&style=plastic" alt="developer-metalhead" /> </p             
+</p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
 
-<p align="center">
-  <a href="https://github.com/developer-metalhead?tab=followers">
-    <img src="https://img.shields.io/github/followers/developer-metalhead?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  
+<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
+<img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
+<img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
+
+---
+
+<b> <p align="center"> Check out my socials:</b><br>
+  <p align="center">
  <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
@@ -38,12 +40,7 @@
   <a href="http://twitter.com/developer_metal">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-              
-</p>
-<p align="center"><img width="75%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight" /></p>
 
-<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
-<img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
-<img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
+</div>
 
 
