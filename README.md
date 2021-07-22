@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=0e75b6&style=plastic" alt="developer-metalhead" />           
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=e39ff6&style=plastic" alt="developer-metalhead" />           
 </p>
 <div align="center" width="50">
 
