@@ -1,6 +1,13 @@
-<h1 align="center">Hi there, I am Kumar Satwik👨‍💻💻</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-metalhead&label=Profile%20views&color=3b8bc4&style=plastic" alt="developer-metalhead" /> </p>
+<div align="center" width="50">
+
+<img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="400"/>
+
+</div>
+</br>
 
 <p align="center">
   <a href="https://github.com/developer-metalhead?tab=followers">
