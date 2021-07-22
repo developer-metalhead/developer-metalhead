@@ -6,17 +6,7 @@
 
 </div>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" /></p>
-
-<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
-<img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
-<img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
-
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<b> <p align="center"> Check out my socials:</b><br>
-  <p align="center">
+ <p align="center">
  <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
@@ -45,3 +35,15 @@
 </div>
 
 
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" /></p>
+
+<p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
+<img align="right" alt="Coding" width="395" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
+<img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
+
+ 
