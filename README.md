@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/C5cgACMZTbxzlwVtyz/giphy.gif?cid=790b76116a109ab4c4d389655eb19f87d54171fed90b473f&rid=giphy.gif&ct=g" alt="Welcome!" width="400"/>
 
 </div>
-
+</br>
  <p align="center">
  <a href="https://www.linkedin.com/in/kumar-satwik-038291203/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
