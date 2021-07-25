@@ -43,7 +43,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <strong> :octocat: I'm a part of these organisations :octocat: </strong><br>
       <table>
         <tr>
           <td align="center">
