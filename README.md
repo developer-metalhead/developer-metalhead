@@ -47,11 +47,6 @@
       <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/SurPathHub">
-              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
-            </a>
-          </td>
-          <td align="center">
             <a href="https://github.com/EddieHubCommunity">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
             </a>
