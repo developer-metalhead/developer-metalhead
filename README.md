@@ -43,7 +43,7 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" /></p>
 
 <p><img align="left"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-metalhead&theme=tokyonight&layout=compact" alt="developer-metalhead">
-<img align="right" alt="Coding" width="47%" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
+<img align="right" alt="Coding" width="46%" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
 <img align="left"><img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-metalhead&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" /> </p>
 
  
